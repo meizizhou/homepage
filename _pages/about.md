@@ -13,7 +13,7 @@ news: false
 social: false
 ---
 
-Welcome! I am a Ph.D. Candidate at the finance department, Carlson School of Management, University of Minnesota. My research focuses on the entrepreneurial management of innovation in a world with financial frictions, through both theoretical and empirical lenses. My job market paper presents a tractable dynamic model to investigate M&As between private firms. It not only explains the distinct patterns but also generates a novel prediction on the signaling effect of private acquisitions.
+Welcome! I am a Ph.D. Candidate at the finance department, Carlson School of Management, University of Minnesota. My research focuses on the entrepreneurial management of innovation in a world with financial frictions, through both theoretical and empirical lenses. My job market paper presents a tractable dynamic model to investigate M&As between private firms. It not only explains their distinct patterns but also generates a novel prediction on the signaling effect of private acquisitions.
 
 I joined the Finance Ph.D. program at the University of Minnesota in September 2014. I also hold a B.S. in Finance from the School of Economics, Peking University, China.
 
