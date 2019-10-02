@@ -30,6 +30,6 @@ years: [Working Paper]
 </ul>
 
 <h4 class="year">Academic Memos</h4>
-
-[<a href="https://www.dropbox.com/s/610qun4lz8liytv/Notes_oldIPO.pdf?dl=0" target="_blank">IPO Underpricing</a>]
+<br/>
+<a href="https://www.dropbox.com/s/610qun4lz8liytv/Notes_oldIPO.pdf?dl=0" target="_blank" style="color:#B39BAC">IPO Underpricing</a>
  
