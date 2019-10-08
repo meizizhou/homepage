@@ -29,7 +29,7 @@ years: [Working Paper]
 <li style="list-style-type:circle;font-size:14px">Key findings: When scouting investment targets, VCs only disclose the financing of viable startups but discard failed ones secretly. This equilibrium strategy is a prisoner dilemma when the fear of preemption increases, which creates industry-wide pessimism.</li>
 </ul>
 
-<h4 class="year">Academic Memos</h4>
+<!--<h4 class="year">Academic Memos</h4>
 <br/>
-`Literature` <a href="https://www.dropbox.com/s/610qun4lz8liytv/Notes_oldIPO.pdf?dl=0" target="_blank" style="color:#000000">IPO Underpricing</a>
+`Literature` <a href="https://www.dropbox.com/s/610qun4lz8liytv/Notes_oldIPO.pdf?dl=0" target="_blank" style="color:#000000">IPO Underpricing</a>-->
  
