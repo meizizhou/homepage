@@ -15,13 +15,29 @@ years: [Working Paper]
 `Theoretical`  ​The Race of Unicorns: A Signaling Theory of Private Acquisitions [<a href="https://www.dropbox.com/s/l426pmuh50pvpvk/JMP_Unicorns.pdf?dl=0" target="_blank">PDF</a>]
 <ul>
 <li style="list-style-type:circle;font-size:14px">Key findings: Private acquisitions represent efficient assets allocations since only the more productive firms will acquire. This implies acquiring before IPO is a positive signal to IPO investors. However, the occurrence of acquisitions is delayed or even prevented by information imperfections.</li>
-<li style="list-style-type:circle;font-size:14px">Presented: FMA Doctoral 2019, FIRS 2019, Econometric Society Asia 2019, Econometric Society NA Summer 2019, NFA 2018, Wharton Innovation Doctoral Symposium 2018.</li>
+<li style="list-style-type:circle;font-size:14px">Presented: Colorado Finance Summit Job Market Session 2019, FMA Doctoral 2019, FIRS 2019, Econometric Society Asia 2019, Econometric Society NA Summer 2019, NFA 2018, Wharton Innovation Doctoral Symposium 2018; Seminars: Tulane, UTSA.</li>
 </ul>
 
 `Empirical`  ​Find and Replace: R&D Investment Following the Erosion of Existing Products <font color="#B39BAC" size="2" face="verdana"><i>with <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank" style="color:#B39BAC">Richard T. Thakor</a> and <a href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435" target="_blank" style="color:#B39BAC">Joshua L. Krieger</a></i></font> [<a href="https://www.dropbox.com/s/1od0b6wei8udn7j/WP_FindReplace.pdf?dl=0" target="_blank">PDF</a>]
 <ul>
 <li style="list-style-type:circle;font-size:14px">Key findings: Unexpected product market failure generates strong feedback effects on innovation strategies. Affected firms increase R&D expenditures through external channels such as acquisitions instead of initiating new projects internally.</li>
 <li style="list-style-type:circle;font-size:14px">Presented: FIRS 2019, CICF 2019, Duke/UNC Innovation and Entrepreneurship 2019, Northwestern Healthcare Markets 2019, Northwestern Innovation Economics 2019, Utah Winter Strategy 2019, AEA 2019, Minnesota Corporate Finance 2018.</li>
+</ul>
+
+`Empirical`  ​Do Venture Capitalists Stifle Competition? <font color="#B39BAC" size="2" face="verdana"><i>with <a href="https://fnce.wharton.upenn.edu/profile/tongl/#awards" target="_blank" style="color:#B39BAC">Tong Liu</a> and <a href="http://finance-faculty.wharton.upenn.edu/luket/" target="_blank" style="color:#B39BAC">Lucian A. Taylor</a></i></font> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479439" target="_blank">PDF</a>]
+<ul>
+<li style="list-style-type:circle;font-size:14px">Key findings: VCs invest copies of early-stage startups, which are competitors targeting the same market. This common ownership stifles ex-post competition. After one startup pioneers, VCs withhold follow-up fundings on the lagging ones, making them less likely to progress in innovation. </li>
+<li style="list-style-type:circle;font-size:14px">Presented: WINDS 2019; Seminars: Queen's.</li>
+</ul>
+
+`Empirical`  ​Paying off the Competition: Market Power and Innovation Incentives <font color="#B39BAC" size="2" face="verdana"><i>with <a href="https://alo.mit.edu/" target="_blank" style="color:#B39BAC">Andrew W. Lo</a> and <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank" style="color:#B39BAC">Richard T. Thakor</a></i></font> [<a>PDF available under request</a>]
+<ul>
+<li style="list-style-type:circle;font-size:14px">Key findings: If they could, pharmaceutical firms would like to pay off potential entrants to maintaining market power. Such payment agreements come with a cost: they crowd out innovation investments. </li>
+</ul>
+
+`Theoretical`  ​Pivots and Prestige: Venture Capital Contracts with Experimentation <font color="#B39BAC" size="2" face="verdana"><i>with <a href="https://carlsonschool.umn.edu/faculty/martin-szydlowski" target="_blank" style="color:#B39BAC">Martin Szydlowski</a> [<a>PDF available under request</a>]
+<ul>
+<li style="list-style-type:circle;font-size:14px">Key findings: If they could, pharmaceutical firms would like to pay off potential entrants to maintaining market power. Such payment agreements come with a cost: they crowd out innovation investments. </li>
 </ul>
 
 `Theoretical`  ​Secret Scouting <font color="#B39BAC" size="2" face="verdana"><i>with <a href="https://carlsonschool.umn.edu/faculty/fangyuan-yu" target="_blank" style="color:#B39BAC">Fangyuan Yu</a></i></font> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3449798" target="_blank">PDF</a>]
