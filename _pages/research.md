@@ -35,7 +35,7 @@ years: [Working Paper]
 <li style="list-style-type:circle;font-size:14px">Key findings: If they could, pharmaceutical firms would like to pay off potential entrants to maintaining market power. Such payment agreements come with a cost: they crowd out innovation investments. </li>
 </ul>
 
-`Theoretical`  ​Pivots and Prestige: Venture Capital Contracts with Experimentation <font color="#B39BAC" size="2" face="verdana"><i>with <a href="https://carlsonschool.umn.edu/faculty/martin-szydlowski" target="_blank" style="color:#B39BAC">Martin Szydlowski</a> [<a>PDF available under request</a>]
+`Theoretical`  ​Pivots and Prestige: Venture Capital Contracts with Experimentation <font color="#B39BAC" size="2" face="verdana"><i>with <a href="https://carlsonschool.umn.edu/faculty/martin-szydlowski" target="_blank" style="color:#B39BAC">Martin Szydlowski</a></i></font> [<a>PDF available under request</a>]
 <ul>
 <li style="list-style-type:circle;font-size:14px">Key findings: Uncertainties in VC investments give rise to the interaction between experimentation and adverse selection. We study how to design VC contracts in this environment. The optimal equity contract features vesting and dilution. We also explore signaling devices such as pivots and prestige projects.</li>
 </ul>
