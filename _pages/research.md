@@ -32,7 +32,7 @@ years: [Working Paper]
 
 `Empirical`  ​Paying off the Competition: Market Power and Innovation Incentives <font color="#B39BAC" size="2" face="verdana"><i>with <a href="https://alo.mit.edu/" target="_blank" style="color:#B39BAC">Andrew W. Lo</a> and <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank" style="color:#B39BAC">Richard T. Thakor</a></i></font> [<a>PDF available under request</a>]
 <ul>
-<li style="list-style-type:circle;font-size:14px">Key findings: If they could, pharmaceutical firms would like to pay off potential entrants to maintaining market power. Such payment agreements come with a cost: they crowd out innovation investments. </li>
+<li style="list-style-type:circle;font-size:14px">Key findings: If they could, pharmaceutical firms would like to pay off potential entrants for maintaining market power. However, such payment agreements come with a cost: they crowd out innovation investments. </li>
 </ul>
 
 `Theoretical`  ​Pivots and Prestige: Venture Capital Contracts with Experimentation <font color="#B39BAC" size="2" face="verdana"><i>with <a href="https://carlsonschool.umn.edu/faculty/martin-szydlowski" target="_blank" style="color:#B39BAC">Martin Szydlowski</a></i></font> [<a>PDF available under request</a>]
