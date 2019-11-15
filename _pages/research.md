@@ -27,7 +27,7 @@ years: [Working Paper]
 `Empirical`  ​Do Venture Capitalists Stifle Competition? <font color="#B39BAC" size="2" face="verdana"><i>with <a href="https://fnce.wharton.upenn.edu/profile/tongl/#awards" target="_blank" style="color:#B39BAC">Tong Liu</a> and <a href="http://finance-faculty.wharton.upenn.edu/luket/" target="_blank" style="color:#B39BAC">Lucian A. Taylor</a></i></font> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479439" target="_blank">PDF</a>]
 <ul>
 <li style="list-style-type:circle;font-size:14px"><strong>Key findings</strong>: VCs invest copies of early-stage startups, which are competitors targeting the same market. This common ownership stifles ex-post competition. After one startup pioneers, VCs withhold follow-up fundings on the lagging ones, making them less likely to progress in innovation. </li>
-<li style="list-style-type:circle;font-size:14px"><strong>Presentations**: WINDS 2019; Seminars: Queen's.</li>
+<li style="list-style-type:circle;font-size:14px"><strong>Presentations</strong>: WINDS 2019; Seminars: Queen's.</li>
 </ul>
 
 `Empirical`  ​Paying off the Competition: Market Power and Innovation Incentives <font color="#B39BAC" size="2" face="verdana"><i>with <a href="https://alo.mit.edu/" target="_blank" style="color:#B39BAC">Andrew W. Lo</a> and <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank" style="color:#B39BAC">Richard T. Thakor</a></i></font> [<a>PDF available under request</a>]
