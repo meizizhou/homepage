@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Xuelin</strong> Li
-description: Finance Ph.D. Candidate, University of Minnesota. <br/>Click for <a href="https://www.dropbox.com/s/l3s2ql72lq74ffe/CV_Xuelin.pdf?dl=0" target="_blank" style="color:#B39BAC">Curriculum Vitae</a>; <a href="https://www.dropbox.com/s/sa54irq8g7e61px/researchstatement_ENT.pdf?dl=0" target="_blank" style="color:#B39BAC">Research Statement</a>.<br/>Contact&#58 <a href="mailto:lixx3811@umn.edu" style="color:#B39BAC">lixx3811[at]umn.edu</a>
+description: Finance Ph.D. Candidate, University of Minnesota. <br/>Click for <a href="https://www.dropbox.com/s/1iwt9m3yrxj88h3/CV_Xuelin.pdf?dl=0" target="_blank" style="color:#B39BAC">Curriculum Vitae</a>; <a href="https://www.dropbox.com/s/sa54irq8g7e61px/researchstatement_ENT.pdf?dl=0" target="_blank" style="color:#B39BAC">Research Statement</a>.<br/>Contact&#58 <a href="mailto:lixx3811@umn.edu" style="color:#B39BAC">lixx3811[at]umn.edu</a>
 
 profile:
   align: top
