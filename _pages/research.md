@@ -12,7 +12,7 @@ years: [Working Paper]
 </div>
 <h4 class="year">Working Paper</h4>
 <br/>
-`Theoretical`  ​The Race of Unicorns: A Signaling Theory of Private Acquisitions [<a href="https://www.dropbox.com/s/l426pmuh50pvpvk/JMP_Unicorns.pdf?dl=0" target="_blank">PDF</a>]
+`Theoretical`  ​The Race of Unicorns: A Signaling Theory of Private Acquisitions [<a href="https://www.dropbox.com/s/fj7wxkmegu5beoy/JMP_Unicorns.pdf?dl=0" target="_blank">PDF</a>]
 <ul>
 <li style="list-style-type:circle;font-size:14px"><em>Key findings</em>: Private acquisitions represent efficient assets allocations since only the more productive firms will acquire. This implies acquiring before IPO is a positive signal to IPO investors. However, the occurrence of acquisitions is delayed or even prevented by information imperfections.</li>
 <li style="list-style-type:circle;font-size:14px"><em>Presentations</em>: Colorado Finance Summit PhD Session 2019, FMA Doctoral 2019, FIRS 2019, ES Asia 2019, ES NA Summer 2019, NFA 2018, WINDS 2018.</li>
@@ -27,7 +27,7 @@ years: [Working Paper]
 `Empirical`  ​Do Venture Capitalists Stifle Competition? <font color="#B39BAC" size="2" face="verdana"><i>with <a href="https://fnce.wharton.upenn.edu/profile/tongl/#awards" target="_blank" style="color:#B39BAC">Tong Liu</a> and <a href="http://finance-faculty.wharton.upenn.edu/luket/" target="_blank" style="color:#B39BAC">Lucian A. Taylor</a></i></font> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479439" target="_blank">PDF</a>]
 <ul>
 <li style="list-style-type:circle;font-size:14px"><em>Key findings</em>: VCs invest copies of early-stage startups, which are competitors targeting the same market. This common ownership stifles ex-post competition. After one startup pioneers, VCs withhold follow-up fundings on the lagging ones, making them less likely to progress in innovation. </li>
-<li style="list-style-type:circle;font-size:14px"><em>Presentations</em>: WINDS 2019; Seminars: Queen's.</li>
+<li style="list-style-type:circle;font-size:14px"><em>Presentations</em>: MFA 2020, UNC-IPC 2020, WINDS 2019; Seminars: Queen's.</li>
 </ul>
 
 `Empirical`  ​Paying off the Competition: Market Power and Innovation Incentives <font color="#B39BAC" size="2" face="verdana"><i>with <a href="https://alo.mit.edu/" target="_blank" style="color:#B39BAC">Andrew W. Lo</a> and <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank" style="color:#B39BAC">Richard T. Thakor</a></i></font> [<a>PDF available under request</a>]
@@ -43,7 +43,7 @@ years: [Working Paper]
 `Theoretical`  ​Secret Scouting <font color="#B39BAC" size="2" face="verdana"><i>with <a href="https://carlsonschool.umn.edu/faculty/fangyuan-yu" target="_blank" style="color:#B39BAC">Fangyuan Yu</a></i></font> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3449798" target="_blank">PDF</a>]
 <ul>
 <li style="list-style-type:circle;font-size:14px"><em>Key findings</em>: When scouting investment targets, VCs only disclose the financing of viable startups but discard failed ones secretly. This equilibrium strategy is a prisoner dilemma when the fear of preemption increases, which creates industry-wide pessimism.</li>
-<li style="list-style-type:circle;font-size:14px"><em>Presentations</em>: SWFA 2020.</li>
+<li style="list-style-type:circle;font-size:14px"><em>Presentations</em>: MFA 2020, SWFA 2020.</li>
 </ul>
 
 <!--<h4 class="year">Academic Memos</h4>
