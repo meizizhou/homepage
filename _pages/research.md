@@ -20,7 +20,7 @@ years: [Working Paper]
 
 `Empirical`  ​Find and Replace: R&D Investment Following the Erosion of Existing Products <font color="#B39BAC" size="2" face="verdana"><i>with <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank" style="color:#B39BAC">Richard T. Thakor</a> and <a href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435" target="_blank" style="color:#B39BAC">Joshua L. Krieger</a></i></font> [<a href="https://www.dropbox.com/s/1od0b6wei8udn7j/WP_FindReplace.pdf?dl=0" target="_blank">PDF</a>]
 <ul>
-<li style="list-style-type:circle;font-size:14px"><em>Key findings</em>: Unexpected product market failure generates em feedback effects on innovation strategies. Affected firms increase R&D expenditures through external channels such as acquisitions instead of initiating new projects internally.</li>
+<li style="list-style-type:circle;font-size:14px"><em>Key findings</em>: Unexpected product market failure generates feedback effects on innovation strategies. Affected firms increase R&D expenditures through external channels such as acquisitions instead of initiating new projects internally.</li>
 <li style="list-style-type:circle;font-size:14px"><em>Presentations</em>: FIRS 2019, CICF 2019, Duke/UNC Innovation and Entrepreneurship 2019, Northwestern Healthcare Markets 2019, Northwestern Innovation Economics 2019, Utah Winter Strategy 2019, AEA 2019, Minnesota Corporate Finance 2018.</li>
 </ul>
 
