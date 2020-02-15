@@ -6,7 +6,7 @@ years: [Working Paper]
 description: <font face="verdana"><i>"The truth." Dumbledore sighed. "It is a beautiful and terrible thing, and should therefore be treated with great caution."</i></font><div align="right"><font face="verdana">- J.K. Rowling, Harry Potter and the Sorcerer's Stone</font></div>
 ---
 
-<h4 class="year">Working Paper</h4>
+<h4 class="researchcat">Working Paper</h4>
 <br/>
 `1` The Race of Unicorns: A Signaling Theory of Private Acquisitions [<a href="https://www.dropbox.com/s/emq4kp5x5weohiv/JMP_Unicorns.pdf?dl=0" target="_blank">PDF</a>]
 <ul>
@@ -23,7 +23,7 @@ description: <font face="verdana"><i>"The truth." Dumbledore sighed. "It is a be
 <li style="list-style-type:circle;font-size:14px"><em>Presentations</em>: MFA 2020, UNC-IPC 2020.</li>
 </ul>
 
-<h4 class="year">In Progress</h4>
+<h4 class="researchcat">In Progress</h4>
 <br/>
 
 `1`  ​Paying off the Competition: Market Power and Innovation Incentives <i>with <a href="https://alo.mit.edu/" target="_blank" style="color:#B39BAC">Andrew W. Lo</a> and <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank" style="color:#B39BAC">Richard T. Thakor</a></i>
