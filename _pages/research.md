@@ -3,46 +3,35 @@ layout: page
 permalink: /Research/
 title: Research
 years: [Working Paper]
+description: <font face="verdana"><i>"The truth." Dumbledore sighed. "It is a beautiful and terrible thing, and should therefore be treated with great caution."</i></font><div align="right"><font face="verdana">- J.K. Rowling, Harry Potter and the Sorcerer's Stone</font></div>
 ---
-<font color="#B39BAC" size="2" face="verdana"><i>"The truth." Dumbledore sighed. "It is a beautiful and terrible thing, and should therefore be treated with great caution."</i></font>
-<div align="right">
-<font color="#B39BAC" size="2" face="verdana">
-  - J.K. Rowling, Harry Potter and the Sorcerer's Stone
-</font>
-</div>
+
 <h4 class="year">Working Paper</h4>
 <br/>
-`Theoretical`  ​The Race of Unicorns: A Signaling Theory of Private Acquisitions [<a href="https://www.dropbox.com/s/emq4kp5x5weohiv/JMP_Unicorns.pdf?dl=0" target="_blank">PDF</a>]
+`1` The Race of Unicorns: A Signaling Theory of Private Acquisitions [<a href="https://www.dropbox.com/s/emq4kp5x5weohiv/JMP_Unicorns.pdf?dl=0" target="_blank">PDF</a>]
 <ul>
-<li style="list-style-type:circle;font-size:14px"><em>Key findings</em>: If a startup makes acquisitions before going public, this action will reveal positive information about firm quality and reduce IPO underpricing. However, signaling opportunity is not always available. Investors overoptimism can lead to IPO waves that inhibit signaling acquisition.</li>
-<li style="list-style-type:circle;font-size:14px"><em>Presentations</em>: Colorado Finance Summit PhD Session 2019, FMA Doctoral 2019, FIRS 2019, ES Asia 2019, ES NA Summer 2019, NFA 2018, WINDS 2018.</li>
+<li style="list-style-type:circle;font-size:14px"><em>Presentations</em>: Colorado Finance Summit (PhD) 2019, FMA (Doctoral) 2019, FIRS 2019, NFA 2018, etc.</li>
 </ul>
 
-`Empirical`  ​Find and Replace: R&D Investment Following the Erosion of Existing Products <font color="#B39BAC" size="2" face="verdana"><i>with <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank" style="color:#B39BAC">Richard T. Thakor</a> and <a href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435" target="_blank" style="color:#B39BAC">Joshua L. Krieger</a></i></font> [<a href="https://www.dropbox.com/s/1od0b6wei8udn7j/WP_FindReplace.pdf?dl=0" target="_blank">PDF</a>]
+`2` Find and Replace: R&D Investment Following the Erosion of Existing Products <i>with <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank" style="color:#B39BAC">Richard T. Thakor</a> and <a href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=951435" target="_blank" style="color:#B39BAC">Joshua L. Krieger</a></i> [<a href="https://www.dropbox.com/s/1od0b6wei8udn7j/WP_FindReplace.pdf?dl=0" target="_blank">PDF</a>]
 <ul>
-<li style="list-style-type:circle;font-size:14px"><em>Key findings</em>: Unexpected product market failure generates feedback effects on innovation strategies. Affected firms increase R&D expenditures through external channels such as acquisitions instead of initiating new projects internally.</li>
-<li style="list-style-type:circle;font-size:14px"><em>Presentations</em>: FIRS 2019, CICF 2019, Duke/UNC Innovation and Entrepreneurship 2019, Northwestern Healthcare Markets 2019, Northwestern Innovation Economics 2019, Utah Winter Strategy 2019, AEA 2019, Minnesota Corporate Finance 2018.</li>
+<li style="list-style-type:circle;font-size:14px"><em>Presentations</em>: FIRS 2019, CICF 2019, Duke/UNC Innovation and Entrepreneurship 2019, Northwestern Healthcare Markets 2019, AEA 2019, etc.</li>
 </ul>
 
-`Empirical`  ​Do Venture Capitalists Stifle Competition? <font color="#B39BAC" size="2" face="verdana"><i>with <a href="https://fnce.wharton.upenn.edu/profile/tongl/#awards" target="_blank" style="color:#B39BAC">Tong Liu</a> and <a href="http://finance-faculty.wharton.upenn.edu/luket/" target="_blank" style="color:#B39BAC">Lucian A. Taylor</a></i></font> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479439" target="_blank">PDF</a>]
+`3` Do Venture Capitalists Stifle Competition? <i>with <a href="https://fnce.wharton.upenn.edu/profile/tongl/#awards" target="_blank" style="color:#B39BAC">Tong Liu</a> and <a href="http://finance-faculty.wharton.upenn.edu/luket/" target="_blank" style="color:#B39BAC">Lucian A. Taylor</a></i> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479439" target="_blank">PDF</a>]
 <ul>
-<li style="list-style-type:circle;font-size:14px"><em>Key findings</em>: VCs invest in copies of early-stage startups, which are competitors targeting the same market. This common ownership stifles ex-post competition. After one startup pioneers, VCs withhold follow-up fundings on the lagging ones, making them less likely to progress in innovation. </li>
-<li style="list-style-type:circle;font-size:14px"><em>Presentations</em>: MFA 2020, UNC-IPC 2020, WINDS 2019; Seminars: Queen's.</li>
+<li style="list-style-type:circle;font-size:14px"><em>Presentations</em>: MFA 2020, UNC-IPC 2020.</li>
 </ul>
 
-`Empirical`  ​Paying off the Competition: Market Power and Innovation Incentives <font color="#B39BAC" size="2" face="verdana"><i>with <a href="https://alo.mit.edu/" target="_blank" style="color:#B39BAC">Andrew W. Lo</a> and <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank" style="color:#B39BAC">Richard T. Thakor</a></i></font> [<a>PDF available under request</a>]
-<ul>
-<li style="list-style-type:circle;font-size:14px"><em>Key findings</em>: If they could, pharmaceutical firms would like to pay off potential entrants for maintaining market power. However, such payment agreements come with a cost: they crowd out innovation investments. </li>
-</ul>
+<h4 class="year">In Progress</h4>
+<br/>
 
-`Theoretical`  ​Pivots and Prestige: Venture Capital Contracts with Experimentation <font color="#B39BAC" size="2" face="verdana"><i>with <a href="https://carlsonschool.umn.edu/faculty/martin-szydlowski" target="_blank" style="color:#B39BAC">Martin Szydlowski</a></i></font> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3481301" target="_blank">PDF</a>]
-<ul>
-<li style="list-style-type:circle;font-size:14px"><em>Key findings</em>: Uncertainties in VC investments give rise to the interaction between experimentation and adverse selection. We study how to design VC contracts in this environment. The optimal equity contract features vesting and dilution. We also explore signaling devices such as pivots and prestige projects.</li>
-</ul>
+`1`  ​Paying off the Competition: Market Power and Innovation Incentives <i>with <a href="https://alo.mit.edu/" target="_blank" style="color:#B39BAC">Andrew W. Lo</a> and <a href="https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank" style="color:#B39BAC">Richard T. Thakor</a></i>
 
-`Theoretical`  ​Secret Scouting <font color="#B39BAC" size="2" face="verdana"><i>with <a href="https://carlsonschool.umn.edu/faculty/fangyuan-yu" target="_blank" style="color:#B39BAC">Fangyuan Yu</a></i></font> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3449798" target="_blank">PDF</a>]
+`2`  ​Pivots and Prestige: Venture Capital Contracts with Experimentation <i>with <a href="https://carlsonschool.umn.edu/faculty/martin-szydlowski" target="_blank" style="color:#B39BAC">Martin Szydlowski</a></i> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3481301" target="_blank">PDF</a>]
+
+`3`  ​Secret Scouting <i>with <a href="https://carlsonschool.umn.edu/faculty/fangyuan-yu" target="_blank" style="color:#B39BAC">Fangyuan Yu</a></i> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3449798" target="_blank">PDF</a>]
 <ul>
-<li style="list-style-type:circle;font-size:14px"><em>Key findings</em>: When scouting investment targets, VCs only disclose the financing of viable startups but discard failed ones secretly. This equilibrium strategy is a prisoner dilemma when the fear of preemption increases, which creates industry-wide pessimism.</li>
 <li style="list-style-type:circle;font-size:14px"><em>Presentations</em>: MFA 2020, SWFA 2020.</li>
 </ul>
 
