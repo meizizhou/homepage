@@ -413,7 +413,7 @@ footer a:hover { color: #47646a; }
 .post-header { margin-bottom: 40px; }
 
 .post-list { margin: 0; padding: 0; list-style: none; }
-.post-list > li { padding-bottom: 2rem; padding-top: 2rem; }
+.post-list > li { border-bottom: 1px solid #ccc; padding-bottom: 2rem; padding-top: 2rem; }
 
 .post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; margin-bottom: 10px; margin-top: 0; color: #87adb6;}
 
@@ -473,7 +473,7 @@ footer a:hover { color: #47646a; }
 
 .publications h2 { color: #47646a; font-size: 32px; margin-bottom: 30px; text-align: center; }
 
-.year { color: #87adb6; margin: 0 -3em 2ex -2em; padding-top: 1ex; text-align: center; }
+.year { border-top: 1px solid #aaa; color: #87adb6; margin: 0 -3em 2ex -2em; padding-top: 1ex; text-align: center; }
 
 .bibliography { margin-bottom: 50px; margin-top: 20px; list-style-type: circle; }
 .bibliography li { margin: 10px 0; position: relative; }
