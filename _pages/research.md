@@ -15,7 +15,7 @@ description: <font face="verdana"><i>"The truth." Dumbledore sighed. "It is a be
 <li>Revise and Resubmit, <i>Management Science.</i></li>
 </ul>
 
-`3` Do Venture Capitalists Stifle Competition? <i>with <a href="https://fnce.wharton.upenn.edu/profile/tongl/#awards" target="_blank" style="color:#B39BAC">Tong Liu</a> and <a href="http://finance-faculty.wharton.upenn.edu/luket/" target="_blank" style="color:#B39BAC">Lucian A. Taylor</a></i> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479439" target="_blank">PDF</a>] and [<a href="https://www.dropbox.com/s/jemf5sje5v8rn7v/OnlineAppendix_Li_Liu_Taylor.pdf?dl=0" target="_blank">Online Appendix</a>]
+`3` Do Venture Capitalists Stifle Competition? <i>with <a href="https://fnce.wharton.upenn.edu/profile/tongl/#awards" target="_blank" style="color:#B39BAC">Tong Liu</a> and <a href="http://finance-faculty.wharton.upenn.edu/luket/" target="_blank" style="color:#B39BAC">Lucian A. Taylor</a></i> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479439" target="_blank">PDF</a>]  [<a href="https://www.dropbox.com/s/jemf5sje5v8rn7v/OnlineAppendix_Li_Liu_Taylor.pdf?dl=0" target="_blank">Online Appendix</a>]
 
 `4`  ​Pivots and Prestige: Venture Capital Contracts with Experimentation <i>with <a href="https://carlsonschool.umn.edu/faculty/martin-szydlowski" target="_blank" style="color:#B39BAC">Martin Szydlowski</a></i> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3481301" target="_blank">PDF</a>]
 
