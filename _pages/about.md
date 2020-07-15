@@ -16,7 +16,7 @@ social: false
 Education:
 <ul>
 <li style="list-style-type:circle;font-size:14px">Ph.D. in Finance, University of Minnesota (09/2014 -06/2020).</li>
-<li style="list-style-type:circle;font-size:14px">Bachelor of Science. in Finance, Peking University (09/2010 -06/2014).</li>
+<li style="list-style-type:circle;font-size:14px">Bachelor of Science in Finance, Peking University (09/2010 -06/2014).</li>
 </ul>
 
 Career:
