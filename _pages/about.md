@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Xuelin</strong> Li (李学林)
-description: Assistant Professor of Finance, University of South Carolina.<br/>CV <a href="https://www.dropbox.com/s/snhfjm31v9mto3g/CV_Xuelin.pdf?dl=0" target="_blank">Curriculum Vitae</a>.<br/>Contact <a href="mailto:xuelin.li@moore.sc.edu">xuelin.li[at]moore.sc.edu</a>; <a href="https://twitter.com/XuelinLester"> @XuelinLester</a>
+description: Assistant Professor of Finance, University of South Carolina.<br/>CV <a href="https://www.dropbox.com/s/snhfjm31v9mto3g/CV_Xuelin.pdf?dl=0" target="_blank">Curriculum Vitae</a>.<br/>Contact <a href="mailto:xuelin.li@moore.sc.edu">xuelin.li[at]moore.sc.edu</a>, <a href="https://twitter.com/XuelinLester"> @XuelinLester</a>
 
 profile:
   align: top
@@ -37,3 +37,17 @@ Upcoming Presentations:
 <li style="list-style-type:circle;font-size:14px">CERF Corporate Finance Theory Symposium 2020 (09/11 - 09/12, virtual, by coauthor) [<a href="https://www.cerf.cam.ac.uk/cerf-events/CERF%20Conferences/cambridge-corporate-finance-theory-symposium-2020" target="_blank">Link</a>];</li>
 <li style="list-style-type:circle;font-size:14px">Northern Finance Association Annual Meeting 2020 (09/25 - 09/27, virtual).</li>
 </ul>
+
+First Name Pronunciation:
+<audio id="eng_name">
+  <source type="audio/mp3" src="media/xuelin.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+<audio id="eng_chinese">
+  <source type="audio/mp3" src="media/xuelin_Chinese.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+<div>
+	<button onclick="document.getElementById('eng_name').play()">English</button>
+	<button onclick="document.getElementById('eng_chinese').play()">Chinese</button>
+</div> 

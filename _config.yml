@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Xuelin Li
-email: lixx3811@umn.edu
+email: xuelin.li@moore.sc.edu
 description: > # this means to ignore newlines until "url:"
-  Finance Ph.D. Candicate at Carlson School of Management, University of Minnesota.
+  Assistant Professor of Finance, University of South Carolina.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
