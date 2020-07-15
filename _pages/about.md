@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Xuelin</strong> Li (李学林)
-description: Assistant Professor of Finance, University of South Carolina.<br/>CV <a href="https://www.dropbox.com/s/snhfjm31v9mto3g/CV_Xuelin.pdf?dl=0" target="_blank">Curriculum Vitae</a>.<br/>Contact <a href="mailto:xuelin.li@moore.sc.edu">xuelin.li[at]moore.sc.edu</a>; <a href="https://twitter.com/XuelinLester"> @XuelinLester</a> <br/>First Name Pronounciation: <a href="/media/xuelin.mp3"> English </a>, <a href="/media/xuelin_Chinese.mp3"> Chinese </a>.
+description: Assistant Professor of Finance, University of South Carolina.<br/>CV <a href="https://www.dropbox.com/s/snhfjm31v9mto3g/CV_Xuelin.pdf?dl=0" target="_blank">Curriculum Vitae</a>.<br/>Contact <a href="mailto:xuelin.li@moore.sc.edu">xuelin.li[at]moore.sc.edu</a>; <a href="https://twitter.com/XuelinLester"> @XuelinLester</a>
 
 profile:
   align: top
