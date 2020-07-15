@@ -39,6 +39,9 @@ Upcoming Presentations:
 </ul>
 
 First Name Pronunciation:
+<ul>
+<li style="list-style-type:circle;font-size:14px">"shu-e-lin". Play sound below.</li>
+</ul>
 <audio id="eng_name">
   <source type="audio/mp3" src="media/xuelin.mp3"></source>
   <p>Your browser does not support the audio element.</p>
