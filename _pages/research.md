@@ -3,7 +3,7 @@ layout: page
 permalink: /Research/
 title: Research
 years: [Working Paper]
-description: <font face="verdana"><i>"The truth." Dumbledore sighed. "It is a beautiful and terrible thing, and should therefore be treated with great caution."</i></font><div align="right"><font face="verdana">- J.K. Rowling, Harry Potter and the Sorcerer's Stone</font></div>
+description: <font face="verdana"><i>"Failure is an option here. If things are not failing, you are not innovating enough."</i></font><div align="right"><font face="verdana">- Elon Musk</font></div>
 ---
 
 <h4 class="researchcat">Working Paper</h4>
