@@ -5,7 +5,7 @@
     </a>
 
     <nav class="site-nav">
-      <a href="#" class="menu-icon"></a>
+      
 
       <div class="menu">
         {% for page in site.header.pages %}
@@ -15,8 +15,8 @@
             {% assign page_link = "/" | append: page.name | downcase %}
           {% endif %}
           {% assign page_link = page_link | absolute_url %}
-          <a class="page-link" href="{{ page_link }}">
-            {{ page.name }}
+          <a class="page-link" href="{{ page_link }}" style="color:#70876c">
+            <strong>{{ page.name }}</strong>
           </a>
         {% endfor %}
       </div>
