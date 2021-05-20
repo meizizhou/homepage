@@ -1,47 +1,82 @@
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-title: Xuelin Li
-description: >- # this means to ignore newlines until "baseurl:"
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+name: Xuelin Li
+email: xuelin.li@moore.sc.edu
+description: > # this means to ignore newlines until "url:"
   Assistant Professor of Finance, University of South Carolina.
-baseurl: "/homepage" # the subpath of the site
-url: "https://lixx3811.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/photo.jpg
-google_analytics: "UA-147588751-1"
+footer_text: >
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-header:
-  pages:
-    - name: Home
-      slug: /
-    - name: Research
+url:   https://lixx3811.github.io
+baseurl: /homepage
+last_updated: # leave blank if you don't want to display last updated
 
-footer:
-  show_powered_by: false
-  contact:
-    - name: Email
-      value: xuelin.li@moore.sc.edu
-      link: mailto:xuelin.li@moore.sc.edu
-  follow:
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+github_username: # your GitHub user name
+twitter_username: # your Twitter handle
+linkedin_username: # your LinkedIn user name
+scholar_userid: # your Google Scholar ID
+orcid_id: # your ORCID ID
+medium_username: # your Medium username
+quora_username: # your Quora username
+SSRN Page: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2804951
+contact_note: >
+  lixx3811@umn.edu<br/>
+
+  321 19th Ave South, 4-269, Minneapolis, MN, 55454
+
+google_analytics: UA-147588751-1
+
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
 
 # Build settings
 markdown: kramdown
-sass:
-    style: :compressed
+highlighter: rouge
+
+# Includes & excludes
+include: ['_pages']
+exclude: [vendor]
+
+# Plug-ins
 plugins:
-  - jekyll-feed
+    - jekyll-email-protect
+    - jekyll-paginate
+    - jekyll/scholar
+    - jemoji
 
-# Excluded items
-exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - feed.xml
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+# Jekyll-Scholar
+scholar:
 
-# Used for defeating caching
-version: 1
+  last_name: Einstein
+
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+# -----------------------------------------------------------------------------
+# Other settings
+# -----------------------------------------------------------------------------
+jquery_version: "1.12.4"
+katex_version: "0.9.0"
+anchorjs_version: "3.2.2"
