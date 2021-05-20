@@ -38,6 +38,10 @@
   float: right;
   line-height: 56px;
 
+  .menu-icon {
+    display: none;
+  }
+
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
@@ -60,13 +64,19 @@
     .menu-icon {
       display: block;
       float: right;
-      width: 36px;
-      height: 26px;
-      line-height: 0;
-      padding-top: 4px;
+      width: 48px;
+      height: 20px;
+      line-height: 12px;
+      padding-top: 8px;
       text-align: center;
+      color: #70876c;
+      font-weight: bold;
 
-      background: #ffffff url('https://www.dropbox.com/s/z2df8v6ndm2phs2/menu.png?dl=0') 6px 4px no-repeat;
+      background: #ffffff;
+      &,
+      &:visited {
+      text-decoration: none;
+    }
     }
 
     .menu {
