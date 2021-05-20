@@ -4,10 +4,7 @@
       <strong>Xuelin</strong> Li (李学林)
     </a>
 
-    <nav class="site-nav">
-      <a href="#" class="menu-icon"></a>
-
-      <div class="menu">
+    <div class="menu">
         {% for page in site.header.pages %}
           {% if page.slug and page.slug != "" and page.slug != nil %}
             {% assign page_link = page.slug %}
@@ -19,7 +16,6 @@
             <strong>{{ page.name }}</strong>
           </a>
         {% endfor %}
-      </div>
-    </nav>
+    </div>
   </div>
 </header>
