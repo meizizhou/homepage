@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="work">
+          <p>
+            <font face="verdana"><i>"The most valuable commodity I know of is information."</i></font><div align="right"><font face="verdana">- Gordon Gekko ("Wall Street", 1987)</font>
+          </p>
+        </div>
+        <div class="work">
+          <h1 class="page-heading">Working Paper</h1>
+
+
+          {% for item in page.items %}
+          <div class="work-item">
+            <img
+              src="{{ item.image.src | absolute_url }}"
+              alt="{{ item.image.alt }}"
+              class="work-bubble"
+            />
+            <span class="work-text">
+              {{ item.description }}
+              <details>
+                <summary>Click for Abstract</summary>
+
+                <p>
+                  {{ item.abstract }}
+                </p>
+              </details>
+              {% if item.publication != "" and item.publication != nil %}
+                <p style="color:#70876c">{{ item.publication }}</p>
+              {% endif %}
+            </span>
+            
+          </div>
+          {% endfor %}
+          <h1 class="page-heading">In Progress</h1>
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
