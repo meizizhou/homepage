@@ -54,43 +54,18 @@
 
   @include media-query($on-mobile) {
     position: absolute;
-    top: 12px;
-    right: 24px;
-
-    border: 1px solid $grey-color-light;
-    border-radius: 5px;
-    text-align: right;
-
-    .menu-icon {
-      display: block;
-      float: right;
-      width: 48px;
-      height: 20px;
-      line-height: 12px;
-      padding-top: 8px;
-      text-align: center;
-      color: #70876c;
-      font-weight: bold;
-
-      background: #ffffff;
-      &,
-      &:visited {
-      text-decoration: none;
-    }
-    }
-
-    .menu {
-      clear: both;
-      display: none;
-      background-color: #ffffff;
-      min-width: 10em;
-      padding-bottom: 5px;
-    }
+    top: 6px;
+    right: 16px;
 
     .page-link {
-      font-size: 16px;
-      display: block;
-      padding: 6px 16px;
+      font-size: 14px;
+      color: $text-color;
+      line-height: $base-line-height;
+
+    // Gaps between nav items, but not on the first one
+    &:not(:first-child) {
+      margin-left: 14px;
+    }
     }
   }
 }
