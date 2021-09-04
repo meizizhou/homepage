@@ -7,35 +7,20 @@ profile_picture:
 
 <strong>Education:</strong>
 <ul>
-<li style="list-style-type:circle;font-size:14px">Ph.D. in Finance, University of Minnesota (09/2014 - 06/2020).</li>
-<li style="list-style-type:circle;font-size:14px">Bachelor of Science in Finance, Peking University (09/2010 - 06/2014).</li>
+<li style="list-style-type:circle;font-size:14px">Ph.D. Candidate, Department of Information & Decision Sciences, University of Minnesota (2017 - Present).</li>
+<li style="list-style-type:circle;font-size:14px">M.S. in Computer Science, Chinese Academy of Sciences (2014 - 2017).</li>
+<li style="list-style-type:circle;font-size:14px">B. Eng. in Information Security, Renmin University of China (2010 - 2014).</li>
+<li style="list-style-type:circle;font-size:14px">Exchange Student, City University of Hong Kong (9/2012-12/2013).</li>
 </ul>
 
 <strong>Research Interest:</strong>
 <ul>
-<li style="list-style-type:circle;font-size:14px">Entrepreneurial Finance;</li>
-<li style="list-style-type:circle;font-size:14px">Innovation;</li>
-<li style="list-style-type:circle;font-size:14px">Healthcare;</li>
-<li style="list-style-type:circle;font-size:14px">Information Economics.</li>
-</ul>
-
-<strong>First Name Pronunciation:</strong>
-<ul>
-<li style="list-style-type:circle;font-size:14px">"shu-e-lin". Play sound below.</li>
-<li style="list-style-type:circle;font-size:14px"><audio id="eng_name">
-  <source type="audio/mp3" src="media/xuelin.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
-<audio id="eng_chinese">
-  <source type="audio/mp3" src="media/xuelin_Chinese.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
-<div>
-	<button onclick="document.getElementById('eng_name').play()">English</button>
-	<button onclick="document.getElementById('eng_chinese').play()">Chinese</button>
-</div> </li>
+<li style="list-style-type:circle;font-size:14px">Reccomender Systems;</li>
+<li style="list-style-type:circle;font-size:14px">E-commerce;</li>
+<li style="list-style-type:circle;font-size:14px">Privacy;</li>
+<li style="list-style-type:circle;font-size:14px">Telehealth.</li>
 </ul>
 
 <strong>Teaching:</strong>
 <ul>
-<li style="list-style-type:circle;font-size:14px">FINA 469 - Investment Analysis and Portfolio Management.</li>
+<li style="list-style-type:circle;font-size:14px">IDSc 4444, Descriptive and Predictive Analytics, University of Minnesota.</li>
