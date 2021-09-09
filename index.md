@@ -14,19 +14,23 @@ profile_picture:
 </ul> -->
 
 <ul>
-	I am a 5th-year Ph.D. Candidate in the <a href="https://carlsonschool.umn.edu/departments/information-decision-sciences-department" target="_blank">Department of Information and Decision Sciences</a> at <a href="https://carlsonschool.umn.edu/" target="_blank">Carlson School of Management</a>, <a href="https://twin-cities.umn.edu/" target="_blank">University of Minnesota</a>.
+	I am a 5th-year Ph.D. Candidate in the <a href="https://carlsonschool.umn.edu/departments/information-decision-sciences-department" target="_blank">Department of Information and Decision Sciences</a> at <a href="https://carlsonschool.umn.edu/" target="_blank">Carlson School of Management</a>, <a href="https://twin-cities.umn.edu/" target="_blank">University of Minnesota</a>. My research focuses on deriving algorithmic and economic insights and strategies for IT-enabled systems and markets. In particular, I combine simulation, machine learning and deep learning, randomized experiments, and econometric analyses to study the impact of human biases, privacy regulation, telehealth, and personalization on digital systems including e-commerce and healthcare.
 </ul>
 
-<strong>Research Interest</strong>
+<ul>
+	I obtained my master's degree at Chinese Academy of Sciences, and bachelor’s degree at Renmin University of China.
+</ul>
+
+<!-- <strong>Research Interest</strong>
 <ul>
 <li style="list-style-type:circle;font-size:14px"><strong>Topics: </strong>Recommender Systems, E-commerce, Privacy, Telehealth, Economic Impact of AI, Customer Lifetime Value, Category Expansion</li>
 <li style="list-style-type:circle;font-size:14px"><strong>Methodologies: </strong>Machine Learning, Deep Learning, Simulation, Field Experiments, Econometrics</li>
-</ul>
+</ul> -->
 
-<strong>Academic Experience</strong>
+<!-- <strong>Academic Experience</strong>
 <ul>
 <li style="list-style-type:circle;font-size:14px"><strong>Instructor</strong> IDSc 4444 Descriptive and Predictive Analytics (Fall 2019, Fall 2020)</li>
-</ul>
+</ul> -->
 
 <strong>Contacts</strong>
 <ul>
