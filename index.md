@@ -22,3 +22,11 @@ profile_picture:
 <strong>Academic Experience</strong>
 <ul>
 <li style="list-style-type:circle;font-size:14px"><strong>Instructor</strong> IDSc 4444 Descriptive and Predictive Analytics (Fall 2019, Fall 2020)</li>
+</ul>
+
+<strong>Contacts</strong>
+<ul>
+<li style="list-style-type:circle;font-size:14px">Email: <a href="mailto:zhou0793@umn.edu" target="_blank">zhou0793[at]umn.edu</a></li>
+<li style="list-style-type:circle;font-size:14px">Scholar Page: <a href="https://scholar.google.com/citations?user=E28GeEIAAAAJ&hl=en&authuser=1" target="_blank">Google Scholar</a></li>
+<li style="list-style-type:circle;font-size:14px">SSRN Page: <a href="https://privpapers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4277569" target="_blank">SSRN</a></li>
+</ul>
