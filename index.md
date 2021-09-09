@@ -14,7 +14,7 @@ profile_picture:
 </ul> -->
 
 <ul>
-	I am a 5th-year Ph.D. Candidate in the <a href="https://carlsonschool.umn.edu/departments/information-decision-sciences-department" target="_blank">Department of Information and Decision Sciences</a> at <a href="https://carlsonschool.umn.edu/" target="_blank">Carlson School of Management</a>, <a href="https://twin-cities.umn.edu/" target="_blank">University of Minnesota</a>. My research focuses on deriving algorithmic and economic insights and strategies for IT-enabled systems and markets. In particular, I combine simulation, machine learning and deep learning, randomized experiments, and econometric analyses to study the impact of human biases, privacy regulation, telehealth, and personalization on digital systems including e-commerce and healthcare. I'm a winner of ZEW Conference Best Paper Award, INFORMS Workshop on Data Science Best Student Paper Award, and many other scholarships.
+	My research focuses on deriving algorithmic and economic insights and strategies for IT-enabled systems and markets. In particular, I combine simulation, machine learning and deep learning, randomized experiments, and econometric analyses to study the impact of human biases, privacy regulation, telehealth, and personalization on digital systems including e-commerce and healthcare. I'm a winner of ZEW Conference Best Paper Award, INFORMS Workshop on Data Science Best Student Paper Award, and many other scholarships.
 </ul>
 
 <ul>
