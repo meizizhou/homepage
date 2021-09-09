@@ -8,16 +8,13 @@
     <div class="page-content">
       <div class="wrapper"> 
         <div class="work">
-          <h1 class="page-heading">Working Paper</h1>
-
-
+          <h1 class="page-heading">Journal Papers under Review</h1>
           {% for item in page.items %}
           <div class="work-item">
             <span class="work-text">
               {{ item.description }}
               <details>
                 <summary>Click for Abstract</summary>
-
                 <p>
                   {{ item.abstract }}
                 </p>
@@ -26,10 +23,9 @@
                 <p style="color:#70876c">{{ item.publication }}</p>
               {% endif %}
             </span>
-            
           </div>
           {% endfor %}
-          <h1 class="page-heading">In Progress</h1>
+          <h1 class="page-heading">Working in Progress</h1>
           {{ content }}
         </div>
       </div>

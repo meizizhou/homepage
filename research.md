@@ -18,11 +18,11 @@ items:
     publication: Under Review at <strong>Information Systems Research</strong>
 ---
 
-`1`  ​**Economic Impact of Category-Expansion-Oriented Recommendations: Evidence from Randomized Field Experiments**, <i>with <a href="https://carlsonschool.umn.edu/faculty/ravi-bapna" target="_blank">Ravi Bapna</a>, <a href="https://carlsonschool.umn.edu/faculty/gediminas-adomavicius" target="_blank">Gedas Adomavicius</a>, and <a href="https://www.linkedin.com/in/jhershaff/" target="_blank">Jonathan Hershaff</a></i>.
+`4`  ​**Economic Impact of Category-Expansion-Oriented Recommendations: Evidence from Randomized Field Experiments**, <i>with <a href="https://carlsonschool.umn.edu/faculty/ravi-bapna" target="_blank">Ravi Bapna</a>, <a href="https://carlsonschool.umn.edu/faculty/gediminas-adomavicius" target="_blank">Gedas Adomavicius</a>, and <a href="https://www.linkedin.com/in/jhershaff/" target="_blank">Jonathan Hershaff</a></i>.
 
-`2` **Impact of Data Privacy Regulations on Recommender Systems**, <i>with <a href="https://carlsonschool.umn.edu/faculty/yicheng-song" target="_blank">Yicheng Song</a>, and <a href="https://carlsonschool.umn.edu/faculty/gediminas-adomavicius" target="_blank">Gedas Adomavicius</a></i>.
+`5` **Impact of Data Privacy Regulations on Recommender Systems**, <i>with <a href="https://carlsonschool.umn.edu/faculty/yicheng-song" target="_blank">Yicheng Song</a>, and <a href="https://carlsonschool.umn.edu/faculty/gediminas-adomavicius" target="_blank">Gedas Adomavicius</a></i>.
 
-`3` **Self-Consistency of Machine Learning Techniques**, <i>with <a href="https://carlsonschool.umn.edu/faculty/gediminas-adomavicius" target="_blank">Gedas Adomavicius</a>, and <a href="https://sites.google.com/view/jingjingzhang" target="_blank">Jingjing Zhang</a></i>.
+`6` **Self-Consistency of Machine Learning Techniques**, <i>with <a href="https://carlsonschool.umn.edu/faculty/gediminas-adomavicius" target="_blank">Gedas Adomavicius</a>, and <a href="https://sites.google.com/view/jingjingzhang" target="_blank">Jingjing Zhang</a></i>.
 
 <br />
 <br />
