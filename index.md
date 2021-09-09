@@ -18,7 +18,7 @@ profile_picture:
 </ul>
 
 <ul>
-	I worked as a data scientist and engineer in companies including Best Buy, JD.com, and Tencent. I obtained my master's degree at <a href="https://english.cas.cn/" target="_blank">Chinese Academy of Sciences</a>, and bachelor’s degree at <a href="https://www.ruc.edu.cn/en" target="_blank">Renmin University of China</a>.
+	Prior to graduate school, I obtained my master's degree at <a href="https://english.cas.cn/" target="_blank">Chinese Academy of Sciences</a>, and bachelor’s degree at <a href="https://www.ruc.edu.cn/en" target="_blank">Renmin University of China</a>. I also worked as a data scientist and software engineer in companies including Best Buy, JD.com, and Tencent. 
 </ul>
 
 <!-- <strong>Research Interest</strong>
