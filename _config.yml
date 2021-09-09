@@ -14,9 +14,9 @@ header:
     - name: Home
       slug: /
     - name: Research
-      slug: /Research
+      slug: /
     - name: CV
-      slug: /CV
+      slug: /
 
 footer:
   show_powered_by: false
