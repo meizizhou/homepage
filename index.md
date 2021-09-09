@@ -5,12 +5,16 @@ profile_picture:
   alt: website picture
 ---
 
-<strong>Education</strong>
+<!-- <strong>Education</strong>
 <ul>
 <li style="list-style-type:circle;font-size:14px">Ph.D. Candidate, Department of Information & Decision Sciences, University of Minnesota (2017 - Present).</li>
 <li style="list-style-type:circle;font-size:14px">M.S. in Computer Science, Chinese Academy of Sciences (2014 - 2017).</li>
 <li style="list-style-type:circle;font-size:14px">B. Eng. in Information Security, Renmin University of China (2010 - 2014).</li>
 <li style="list-style-type:circle;font-size:14px">Exchange Student, City University of Hong Kong (9/2012-12/2013).</li>
+</ul> -->
+
+<ul>
+	I am a 5th-year Ph.D. Candidate in the <a href="https://carlsonschool.umn.edu/departments/information-decision-sciences-department" target="_blank">Department of Information and Decision Sciences</a> at <a href="https://carlsonschool.umn.edu/" target="_blank">Carlson School of Management</a>, <a href="https://twin-cities.umn.edu/" target="_blank">University of Minnesota</a>.
 </ul>
 
 <strong>Research Interest</strong>
