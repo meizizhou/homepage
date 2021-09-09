@@ -19,6 +19,6 @@ profile_picture:
 <li style="list-style-type:circle;font-size:14px"><strong>Methodologies: </strong>Machine Learning, Deep Learning, Simulation, Field Experiments, Econometrics</li>
 </ul>
 
-<strong>Teaching</strong>
+<strong>Academic Experience</strong>
 <ul>
-<li style="list-style-type:circle;font-size:14px">IDSc 4444, Descriptive and Predictive Analytics, University of Minnesota.</li>
+<li style="list-style-type:circle;font-size:14px"><strong>Instructor</strong> IDSc 4444 Descriptive and Predictive Analytics (Fall 2019, Fall 2020)</li>
