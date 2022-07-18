@@ -14,11 +14,11 @@ profile_picture:
 </ul> -->
 
 <ul>
-	I am a 5th-year Ph.D. Candidate in the <a href="https://carlsonschool.umn.edu/departments/information-decision-sciences-department" target="_blank">Department of Information and Decision Sciences</a> at <a href="https://carlsonschool.umn.edu/" target="_blank">Carlson School of Management</a>, <a href="https://twin-cities.umn.edu/" target="_blank">University of Minnesota</a>. My research focuses on algorithmic and economic aspects of IT-enabled platforms in the areas of recommender systems and healthcare markets. As part of algorithmic explorations, I combine machine learning, deep learning and simulation to understand and improve recommender systems performance in the settings where traditional modeling assumptions do not hold due to the real-world bias, privacy, and item life length considerations. To explore the economic impact of IT platforms, I combine randomized controlled trials, quasi-natural experiments, econometric analyses, and machine learning to study the effects of personalized recommendations on product category expansion as well as the effects of telehealth adoption. My studies have won <em>Best Paper Award</em> at <em>ZEW Conference 2021</em> and <em>Best Student Paper Award</em> at <em>INFORMS Workshop on Data Science 2020</em>.
+	I am an Assistant Professor in the <a href="https://www.bu.edu/questrom/faculty-research/academic-departments/information-systems/" target="_blank">Information Systems department</a> at <a href="https://www.bu.edu/questrom/" target="_blank">Questrom School of Business</a>, <a href="https://www.bu.edu/" target="_blank">Boston University</a>. My research focuses on algorithmic and economic aspects of IT-enabled platforms in the areas of recommender systems and healthcare markets. As part of algorithmic explorations, I combine machine learning, deep learning and simulation to understand and improve recommender systems performance in the settings where traditional modeling assumptions do not hold due to the real-world bias, privacy, and item life length considerations. To explore the economic impact of IT platforms, I combine randomized controlled trials, quasi-natural experiments, econometric analyses, and machine learning to study the effects of personalized recommendations on product category expansion as well as the effects of telehealth adoption. My studies have won <em>Best Paper Award</em> at <em>ZEW Conference 2021</em> and <em>Best Student Paper Award</em> at <em>INFORMS Workshop on Data Science 2020</em>.
 </ul>
 
 <ul>
-	Prior to graduate school, I obtained my master's degree at <a href="https://english.cas.cn/" target="_blank">Chinese Academy of Sciences</a>, and bachelor’s degree at <a href="https://www.ruc.edu.cn/en" target="_blank">Renmin University of China</a>. I have worked as research intern at companies such as Best Buy, JD.com, and Tencent. My internship relevant research have been published on top computer science conferences including WSDM and CIKM.
+	Before joining Questrom, I obtained my Ph.D. from the <a href="https://carlsonschool.umn.edu/departments/information-decision-sciences-department" target="_blank">Department of Information and Decision Sciences at Carlson School of Management, University of Minnesota</a>. And I received my master's degree at <a href="https://english.cas.cn/" target="_blank">Chinese Academy of Sciences</a>, and bachelor’s degree at <a href="https://www.ruc.edu.cn/en" target="_blank">Renmin University of China</a>. I have worked as research intern at companies such as Best Buy, JD.com, and Tencent. My internship relevant research have been published on top computer science conferences including WSDM and CIKM.
 </ul>
 
 <!-- <strong>Research Interest</strong>
@@ -34,7 +34,7 @@ profile_picture:
 
 <strong>Contacts</strong>
 <ul>
-<li style="list-style-type:circle;font-size:14px">Email: <a href="mailto:zhou0793@umn.edu" target="_blank">zhou0793[at]umn.edu</a></li>
+<li style="list-style-type:circle;font-size:14px">Email: <a href="mailto:mzzhou@bu.edu" target="_blank">mzzhou[at]bu.edu</a></li>
 <li style="list-style-type:circle;font-size:14px">Scholar Page: <a href="https://scholar.google.com/citations?user=E28GeEIAAAAJ&hl=en&authuser=1" target="_blank">Google Scholar</a></li>
 <li style="list-style-type:circle;font-size:14px">SSRN Page: <a href="https://privpapers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4277569" target="_blank">SSRN</a></li>
 </ul>
