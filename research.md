@@ -11,6 +11,7 @@ items:
   - title: telehealth
     description: <strong>Healthcare across Boundaries&#58; Urban-Rural Differences in the Financial and Healthcare Consequences of Telehealth Adoption,</strong> <i> with <a href = "https://xuelinli.com/" target="_blank">Xuelin Li</a>, and <a href = "https://www.bu.edu/questrom/profile/gordon-burtch/" target="_blank">Gordon Burtch</a></i>. [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3807577" target="_blank">PDF</a>]
     publication: Accepted at <strong>Information Systems Research</strong>
+    publication: Covered by <strong><a href = "https://slate.com/technology/2023/09/telehealth-revolution-revenue-rural-hospitals-research.html?utm_source=flipboard&utm_content=Slate%2Fmagazine%2FTechnology" target="_blank"> Slate </a></strong>
     abstract: We study the impacts of telehealth adoption on geographic competition among urban and rural healthcare providers. We consider a quasi-natural experiment&#58; states' entry into the Interstate Medical Licensure Compact, wherein the entry events facilitate healthcare providers to adopt telehealth technology. By analyzing a representative sample of providers, we first establish the Compact-entry shock's validity and its positive effect on the supply of medical services. We then report evidence that there are service and payment shifts from rural providers to urban providers, i.e., urban providers are more likely to benefit from the Compact-entry financially. Relying on patients' telehealth reimbursement claim data, we observe two mechanisms contributing to the revenue re-distribution&#58; the substitution and gateway effects of telehealth. Finally, we show that telehealth readiness and service quality moderate the impact of telehealth adoption. These findings speak to both potentially positive and negative consequences for welfare.
   - title: shortlive
     description: <strong>Short-Lived Item Recommendation,</strong> <i>with <a href="https://carlsonschool.umn.edu/faculty/yicheng-song" target="_blank">Yicheng Song</a>, <a href="https://www.bc.edu/bc-web/schools/carroll-school/faculty-research/faculty-directory/zhuoxin-allen-li.html" target="_blank">Zhuoxin Li</a>, and <a href="https://sites.google.com/site/gechunmian/" target="_blank">Chunmian Ge</a></i>. [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678779" target="_blank">PDF</a>]
@@ -22,7 +23,7 @@ items:
     publication: Reject and Resubmit at <strong>Management Science</strong>
 ---
 
-**Impact of Data Privacy Regulations on Recommender Systems**, <i>with <a href="https://carlsonschool.umn.edu/faculty/yicheng-song" target="_blank">Yicheng Song</a>, and <a href="https://carlsonschool.umn.edu/faculty/gediminas-adomavicius" target="_blank">Gedas Adomavicius</a></i>.
+**Impact of Data Privacy Regulations on Recommender Systems**, <i>with <a href="https://carlsonschool.umn.edu/faculty/ben-chen" target="_blank">Liben Chen</a>, <a href="https://carlsonschool.umn.edu/faculty/yicheng-song" target="_blank">Yicheng Song</a>, and <a href="https://carlsonschool.umn.edu/faculty/gediminas-adomavicius" target="_blank">Gedas Adomavicius</a></i>.
 
 <br />
 <br />

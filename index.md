@@ -19,6 +19,7 @@ profile_picture:
 
 <ul>
 	Before joining Questrom, I obtained my Ph.D. from the <a href="https://carlsonschool.umn.edu/departments/information-decision-sciences-department" target="_blank">Department of Information and Decision Sciences at Carlson School of Management, University of Minnesota</a>. And I received my master's degree at <a href="https://english.cas.cn/" target="_blank">Chinese Academy of Sciences</a>, and bachelor’s degree at <a href="https://www.ruc.edu.cn/en" target="_blank">Renmin University of China</a>. I have worked as research intern at companies such as Best Buy, JD.com, and Tencent. 
+</ul>
 
 <!-- <strong>Research Interest</strong>
 <ul>
