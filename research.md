@@ -22,7 +22,7 @@ items:
     publication: Reject and Resubmit at <strong>Management Science</strong>
 ---
 
-**Impact of Data Privacy Regulations on Recommender Systems**, <i>with <a href="https://carlsonschool.umn.edu/faculty/ben-chen" target="_blank">Liben Chen</a>, <a href="https://carlsonschool.umn.edu/faculty/yicheng-song" target="_blank">Yicheng Song</a>, and <a href="https://carlsonschool.umn.edu/faculty/gediminas-adomavicius" target="_blank">Gedas Adomavicius</a></i>.
+**Impact of Data Privacy Regulations on Recommender Systems Performance in the Presence of Stable vs. Dynamic User Preferences.**, <i>with <a href="https://carlsonschool.umn.edu/faculty/ben-chen" target="_blank">Liben Chen</a>, <a href="https://carlsonschool.umn.edu/faculty/yicheng-song" target="_blank">Yicheng Song</a>, and <a href="https://carlsonschool.umn.edu/faculty/gediminas-adomavicius" target="_blank">Gedas Adomavicius</a></i>.
 
 <br />
 <br />
