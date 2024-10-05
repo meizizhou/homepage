@@ -2,7 +2,6 @@
 layout: work
 title: Research
 slug: /Research
-
 pubs:
   - title: longitude
     description: <strong>Longitudinal Impact of Preference Biases on Recommender Systems' Performance,</strong> <i>with <a href="https://sites.google.com/view/jingjingzhang" target="_blank">Jingjing Zhang</a>, and <a href="https://carlsonschool.umn.edu/faculty/gediminas-adomavicius" target="_blank">Gedas Adomavicius</a></i>. [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799525" target="_blank">PDF</a>]
