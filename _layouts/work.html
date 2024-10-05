@@ -8,10 +8,28 @@
     <div class="page-content">
       <div class="wrapper"> 
         <div class="work">
-          <h1 class="page-heading">Journal Papers under Review</h1>
+          <h1 class="page-heading">Journal Publication</h1>
+          {% for item in page.pubs %}
+          <div class="work-item">
+            <span class="work-text">
+              <span style="color:#64a1bd"><strong>&nbsp;{{ item.numbering }}&nbsp;</strong></span>
+              {{ item.description }}
+              <details>
+                <summary>Click for Abstract</summary>
+                <p>
+                  {{ item.abstract }}
+                </p>
+              </details>
+              {% if item.publication != "" and item.publication != nil %}
+                <p style="color:#70876c">{{ item.publication }}</p>
+              {% endif %}
+            </span>
+          </div>
+          <h1 class="page-heading">Working Paper</h1>
           {% for item in page.items %}
           <div class="work-item">
             <span class="work-text">
+              <span style="color:#64a1bd"><strong>&nbsp;{{ item.numbering }}&nbsp;</strong></span>
               {{ item.description }}
               <details>
                 <summary>Click for Abstract</summary>
