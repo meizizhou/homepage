@@ -32,9 +32,10 @@ items:
     abstract: We document that interactions with manipulated decision support systems can distort the development of human capital using the context of opioid prescription. Physicians in our sample adopted electronic health record software from a list of federally certified companies in 2011. Between 2016 and spring 2019, one company secretly embedded a biased decision support system function to promote extended-release opioid sales. Affected physicians not only increased opioid claims relative to the control group during the treatment window but also maintained a higher propensity for prescriptions even after the removal of the biased function. This long-term distortion of human capital relies on the unconsciousness of algorithmic biases and does not occur following other explicit promotions, such as pharmaceutical detailing payments. Using machine-learning algorithms, we quantify that human capital distortion explains 54% of the treatment effects in a physician decision model with dynamic learning. Experience with opioids, along with caution regarding elder patients, mitigates the distortion.
     publication: <strong> Under Review </strong>
     numbering: 5
+
+progress:
+  - title: shopping
+    description: <strong>The Impact of Telehealth Expansion on “Doctor-Shopping” and Drug Overdoses</strong>
+    numbering: 1
+    authors: with <a href="https://www.bu.edu/questrom/profiles/byoung-hyuk-ahn/" target="_blank">Byoung-Hyuk Ahn</a> and <a href = "https://www.bu.edu/questrom/profile/gordon-burtch/" target="_blank">Gordon Burtch</a>
 ---
-
-**The Impact of Telehealth Expansion on “Doctor-Shopping” and Drug Overdoses.**, <i>with <a href="https://www.bu.edu/questrom/profiles/byoung-hyuk-ahn/" target="_blank">Byoung-Hyuk Ahn</a> and <a href = "https://www.bu.edu/questrom/profile/gordon-burtch/" target="_blank">Gordon Burtch</a></i>.
-
-<br />
-<br />
