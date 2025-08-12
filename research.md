@@ -46,11 +46,11 @@ items:
     publication: Under Review 
     numbering: 7
 
-<!--
+
 progress:
   - title: shopping
     description: <strong>The Impact of Telehealth Expansion on “Doctor-Shopping” and Drug Overdoses</strong>
     numbering: 1
     authors: with <a href="https://www.bu.edu/questrom/profiles/byoung-hyuk-ahn/" target="_blank">Byoung-Hyuk Ahn</a> and <a href = "https://www.bu.edu/questrom/profile/gordon-burtch/" target="_blank">Gordon Burtch</a>
--->
+
 ---
