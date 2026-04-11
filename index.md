@@ -5,20 +5,13 @@ profile_picture:
   alt: website picture
 ---
 
-<!-- <strong>Education</strong>
-<ul>
-<li style="list-style-type:circle;font-size:14px">Ph.D. Candidate, Department of Information & Decision Sciences, University of Minnesota (2017 - Present).</li>
-<li style="list-style-type:circle;font-size:14px">M.S. in Computer Science, Chinese Academy of Sciences (2014 - 2017).</li>
-<li style="list-style-type:circle;font-size:14px">B. Eng. in Information Security, Renmin University of China (2010 - 2014).</li>
-<li style="list-style-type:circle;font-size:14px">Exchange Student, City University of Hong Kong (9/2012-12/2013).</li>
-</ul> -->
 
 <ul>
-	I am an Assistant Professor in the <a href="https://www.bu.edu/questrom/faculty-research/academic-departments/information-systems/" target="_blank">Information Systems department</a> at <a href="https://www.bu.edu/questrom/" target="_blank">Questrom School of Business</a>, <a href="https://www.bu.edu/" target="_blank">Boston University</a>. My research focuses on algorithmic and economic aspects of IT-enabled platforms in the areas of recommender systems and healthcare markets. My studies have won <em>INFORMS Information Systems Society (ISS) Nunamaker-Chen Dissertation Award Winner 2023</em>, <em>Best Paper Award</em> at <em>CHITA Conference 2024</em>, <em>ZEW Conference 2021</em> and <em>Best Student Paper Award</em> at <em>INFORMS Workshop on Data Science 2020</em>. 
+	I am an Assistant Professor in the <a href="https://www.bu.edu/questrom/faculty-research/academic-departments/information-systems/" target="_blank">Information Systems department</a> at <a href="https://www.bu.edu/questrom/" target="_blank">Questrom School of Business</a>, <a href="https://www.bu.edu/" target="_blank">Boston University</a>. My research focuses on algorithmic and economic aspects of IT-enabled platforms in the areas of recommender systems and healthcare markets. My research has been published in <em>Information Systems Research</em> and <em>Management Science</em>. My studies have won <em>INFORMS Information Systems Society (ISS) Nunamaker-Chen Dissertation Award Winner 2023</em>, <em>Best Paper Award</em> at <em>CHITA Conference 2024</em>, <em>ZEW Conference 2021</em> and <em>Best Student Paper Award</em> at <em>INFORMS Workshop on Data Science 2020</em>. 
 </ul>
 
 <ul>
-	Before joining Questrom, I obtained my Ph.D. from the <a href="https://carlsonschool.umn.edu/departments/information-decision-sciences-department" target="_blank">Department of Information and Decision Sciences at Carlson School of Management, University of Minnesota</a>. And I received my master's degree at <a href="https://english.cas.cn/" target="_blank">Chinese Academy of Sciences</a>, and bachelor’s degree at <a href="https://www.ruc.edu.cn/en" target="_blank">Renmin University of China</a>. I have worked as research intern at companies such as Best Buy, JD.com, and Tencent. 
+	Before joining Questrom, I obtained my Ph.D. from University of Minnesota. And I received my master's degree at Chinese Academy of Sciences, and bachelor’s degree at Renmin University of China. I have worked as research intern at companies such as Best Buy, JD.com, and Tencent. 
 </ul>
 
 <!-- <strong>Research Interest</strong>
